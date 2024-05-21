@@ -6,6 +6,8 @@
 
 <br/>
 
+<p align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flets-go-tourism&count_bg=%235992DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> </p> <br/>
+
 ### 문화유산 관람객의 동향
 최근 4년간 통계를 보면, 코로나19 감염병의 영향으로 크게 감소했던 국내 문화유산 관람객 수가 코로나19 이전 추세로 회복하는 추세를 보이고 있습니다. 서울에 위치한 궁, 능, 원 및 유적 관리소의 관람객 수는 이미 침체기 이전 수치를 넘어선 반면, 전국에 분포한 유네스코 세계유산과 민속마을 관람객 수는 여전히 낮은 회복세를 보이고 있습니다.
 

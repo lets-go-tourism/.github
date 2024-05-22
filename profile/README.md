@@ -13,3 +13,82 @@
 
 ### 목표
 **팀 렛츠고관광**은 지역 문화유산의 가치를 알리고 게임적 흥미를 유발하는 뉴미디어 컨텐츠를 제작하여 국내 관광객들이 지역 문화유산을 방문하도록 유도함으로써, 지역 관광 문화산업의 회복을 돕고, 현재 서울에 집중된 문화유산 관람 문화를 전국적으로 확대하고자 합니다.
+
+<br/>
+
+
+## 👫 팀원 소개
+
+### UI/UX, 기획
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/"><b>이시온</b></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>UI/UX, 기획</strong></td>
+  </tr>
+</table>
+
+<br/>
+
+### Backend
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/bbbbooo"><img src="https://avatars.githubusercontent.com/bbbbooo" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/silverpoodle"><img src="https://avatars.githubusercontent.com/silverpoodle" width="150px;" alt="">
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/MinSooC"><b>이현석</b></td>
+    <td align="center"><a href="https://github.com/fortress43-dev"><b>손정인</b></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+  </tr>
+</table>
+
+<br/>
+
+### Unity
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/JoanneKael"><img src="https://avatars.githubusercontent.com/JoanneKael" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/"><b>박현섭</b></td>
+    <td align="center"><a href="https://github.com/JoanneKael"><b>강주연</b></td>
+    <td align="center"><a href="https://github.com/"><b>김성비</b></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>Unity</strong></td>
+    <td align="center"><strong>Unity</strong></td>
+    <td align="center"><strong>Unity</strong></td>
+  </tr>
+</table>
+
+<br/>
+
+### 3D Model
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/"><b>최영재</b></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>3D Model</strong></td>
+  </tr>
+</table>
+
+
+<br>

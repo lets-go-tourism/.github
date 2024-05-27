@@ -41,12 +41,15 @@
   <tr>
     <td align="center"><a href="https://github.com/bbbbooo"><img src="https://avatars.githubusercontent.com/bbbbooo" width="150px;" alt="">
     <td align="center"><a href="https://github.com/silverpoodle"><img src="https://avatars.githubusercontent.com/silverpoodle" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/silverpoodle"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/MinSooC"><b>이현석</b></td>
-    <td align="center"><a href="https://github.com/fortress43-dev"><b>손정인</b></td>
+    <td align="center"><a href="https://github.com/bbbbooo"><b>이현석</b></td>
+    <td align="center"><a href="https://github.com/silverpoodle"><b>손정인</b></td>
+    <td align="center"><a href="https://github.com/numerical43"><b>강수의</b></td>
   </tr>
     <tr>
+    <td align="center"><strong>Backend</strong></td>
     <td align="center"><strong>Backend</strong></td>
     <td align="center"><strong>Backend</strong></td>
   </tr>

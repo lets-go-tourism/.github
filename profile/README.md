@@ -83,10 +83,10 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/IchochoI" width="150px;" alt="">
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/"><b>최영재</b></td>
+    <td align="center"><a href="https://github.com/IchochoI"><b>최영재</b></td>
   </tr>
     <tr>
     <td align="center"><strong>3D Model</strong></td>

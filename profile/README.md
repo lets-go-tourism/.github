@@ -61,14 +61,14 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/JoanneKael"><img src="https://avatars.githubusercontent.com/JoanneKael" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/kukenya" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/JoanneKael"><img src="https://avatars.githubusercontent.com/juyeon0514" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/JoanneKael" width="150px;" alt="">
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/"><b>박현섭</b></td>
-    <td align="center"><a href="https://github.com/JoanneKael"><b>강주연</b></td>
-    <td align="center"><a href="https://github.com/"><b>김성비</b></td>
+    <td align="center"><a href="https://github.com/kukenya"><b>박현섭</b></td>
+    <td align="center"><a href="https://github.com/juyeon0514"><b>강주연</b></td>
+    <td align="center"><a href="https://github.com/JoanneKael"><b>김성비</b></td>
   </tr>
     <tr>
     <td align="center"><strong>Unity</strong></td>
